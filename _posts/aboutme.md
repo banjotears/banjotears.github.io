@@ -4,7 +4,7 @@ title: "About Me"
 author: "Jake Wylykanowitz"
 categories: facts
 tags: [sample]
-image: c.jpg
+image: headshot.jpg
 ---
 
 
