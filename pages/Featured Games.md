@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Interesting Facts
-category: facts
+title: Featured Games
+category: Games
 permalink: /facts
 ---
