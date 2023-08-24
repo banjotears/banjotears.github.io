@@ -2,7 +2,7 @@
 layout: post
 title: "About Me"
 author: "Jake Wylykanowitz"
-categories: facts
+categories: posts
 tags: [sample]
 image: headshot.jpg
 ---
