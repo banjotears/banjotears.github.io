@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about
+image: headshot.jpg
 ---
 
 ![current headshot][assets/img/headshot.jpg]
