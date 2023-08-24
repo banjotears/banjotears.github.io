@@ -8,7 +8,7 @@ image: headshot.jpg
 ---
 
 
-##Hey, I'm Jake! 
+## Hey, I'm Jake! 
 
 I'm a narrative designer currently studying Interactive Entertainment at the University of Southern California.
 Games have always been my absolute favorite art form, and I work to create games that help others recontextualize the way they see the world around them in the way that so many games have done for me. 
