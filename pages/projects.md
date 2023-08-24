@@ -1,6 +1,6 @@
 ---
 layout: category
-title: GAMES
-category: games
+title: All Projects
+category: projects
 permalink: /projects
 ---
