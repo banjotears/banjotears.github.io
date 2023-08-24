@@ -7,9 +7,9 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
+- {name: 'Featured Games',  url: 'games'}
 - {name: Projects, url: 'projects'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
+- {name: 'TTRPGs',       url: 'ttrpg'}
 - {name: 'Documentation',      url: 'documentation'}
 - {name: 'About Me',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
