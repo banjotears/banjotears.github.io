@@ -9,7 +9,7 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'Featured Games',  url: 'games'}
 - {name: Projects, url: 'projects'}
-- {name: 'TTRPGs',       url: 'ttrpg'}
+- {name: 'TTRPGs',       url: 'ttrpgs'}
 - {name: 'Documentation',      url: 'documentation'}
 - {name: 'About Me',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
