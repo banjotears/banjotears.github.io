@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Sample Posts
-category: sample
-permalink: /sample-posts
+title: TTRPGs
+category: ttrpg
+permalink: /ttrpgs
 ---
