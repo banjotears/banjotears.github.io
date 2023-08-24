@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about
-image: headshot.jpg
+image: /assets/img/headshot.jpg
 ---
 
-![current headshot][assets/img/headshot.jpg]
+![]({{page.image | relative_url}})
 ## Hey, I'm Jake! 
 
 I'm a narrative designer currently studying Interactive Entertainment at the University of Southern California.
