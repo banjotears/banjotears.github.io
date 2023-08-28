@@ -4,7 +4,7 @@ title: "Getting Started"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: Bedtime Story.png
+image: shall we play a game.png
 ---
 
 # Millennial
