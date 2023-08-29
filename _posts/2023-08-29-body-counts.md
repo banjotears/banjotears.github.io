@@ -2,7 +2,7 @@
 layout: post
 title: "BODY COUNTS"
 author: "Jake Wylykanowitz"
-categories: games
+categories: ttrpg
 tags: [TTRPGs]
 image: BodyCounts.png
 ---
