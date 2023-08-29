@@ -4,7 +4,7 @@ title: "Perennial"
 author: "Jake Wylykanowitz"
 categories: games
 tags: [games,projects]
-image: PerennialCover.PNG
+image: PerennialCover.jpg
 ---
 
 ### (Unity- PC/Mac)
