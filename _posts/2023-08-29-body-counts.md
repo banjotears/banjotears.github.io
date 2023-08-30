@@ -19,3 +19,4 @@ By running a new mystery each session, players never know what they are up again
 defeat whatever dark entity lurked just outside their view.
 ![](/assets/img/BODY COUNTS EP 2 - DREAMS OF ORGONON.pdf)
 ![](/assets/img/BODY COUNTS EP 3_ CLOSING CIRCUITRY OF FRIGHT.pdf)
+<a href = "https://lively-buckaroo-fa6.notion.site/BODY-COUNTS-f19123071d91449a8d935689dd6f7f76?pvs=4">Check Out More Mysteries Via Notion!</a>
