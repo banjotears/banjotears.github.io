@@ -10,7 +10,7 @@ image: PickfairStart.png
 ## Gamemaster 
 ## Discord/Twitch/Instagram/Twitter
 ### In this multi-session event, players assist an AI by creating art projects to bring a secret society back to life during and after quarantine.
-<p align="center"><iframe width="1280" height="720" src="https://www.youtube.com/embed/b4GaMS25VIQ" title="PickfairDirective Explainer Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/b4GaMS25VIQ" title="PickfairDirective Explainer Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 An Alternate Reality Game (ARG)-like developed with fellow students and staff at the University of Southern California.
 ![](/assets/img/shall we play a game.png)
 Created for incoming freshmen at the School of Cinematic Arts, it follows the story of a rogue AI called Elysee Reinhardt and a mysterious organization known as the Pickfair Directive.
