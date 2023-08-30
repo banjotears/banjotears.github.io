@@ -10,7 +10,6 @@ menu:
 - {name: 'Featured Games',  url: 'games'}
 - {name: Projects, url: 'projects'}
 - {name: 'TTRPGs',       url: 'ttrpgs'}
-- {name: 'About Me',              url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
