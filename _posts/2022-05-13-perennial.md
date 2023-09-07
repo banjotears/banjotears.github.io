@@ -2,7 +2,7 @@
 layout: post
 title: "Perennial"
 author: "Jake Wylykanowitz"
-categories: games
+categories: projects
 tags: [games,projects]
 image: PerennialCover.jpg
 ---
