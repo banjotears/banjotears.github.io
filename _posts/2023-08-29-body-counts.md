@@ -17,4 +17,6 @@ Before each session, I would write the mystery, inspired by anything from urban 
 I ensure each player is engaged, creating a space for collaborative storytelling surrounding themes of growing up, queerness, and the vulnerability of youth.
 By running a new mystery each session, players never know what they are up against, having to rely on themselves and others to protect victims and 
 defeat whatever dark entity lurked just outside their view.
+
+Monster of the Week, as a system, allows for much more open design choices on the end of Gamemasters. Unlike other systems, Monster of the Week actively seeks for players to create homebrew content, including mysteries, NPCs, monsters, locations, and minions. It allows for much more collaboration alongside our players, permitting the game to become a shared world that can be actively built out and changed by everyone at the table. This campaign has caused me to deepen my skills as a TTRPG designer as I build out stories, lay clues, and try to get each story resolved within a single 4-hour session.
 <a href = "https://lively-buckaroo-fa6.notion.site/BODY-COUNTS-f19123071d91449a8d935689dd6f7f76?pvs=4">Check Out Examples of Mysteries Via Notion!</a>
