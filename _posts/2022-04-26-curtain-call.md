@@ -18,4 +18,6 @@ I wrote Billie's final date, Jodie's 3rd date,  a conversation for both characte
 <p align = "center"><iframe width="560" height="325" src="https://www.youtube.com/embed/dVwN30v0fDA" title="Curtain Call- Jodie Date 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 For dates, I started with the location first, discussing with my team where a good location to set the date would be. After that, I would draft the date in Word before beginning writing in Yarn Spinner. After my first draft, I iterated based on feedback from my teammates and playtesters. This project was a fantastic exercise in the power of strong narrative design, as two of our goals while designing each interaction was making the characters feel real and have players feel like their choices matter and have value beyond just whether they get to truly know and understand each character during their route. 
 ![](/assets/img/Yarn.PNG)
+### NEW MEDIA WRITING PRIZE 2022 SHORTLIST
+### MELBOURNE QUEER GAMES FESTIVAL 2022 SHORTLIST
 <p align = "center"><a href = "https://store.steampowered.com/app/1839180/Curtain_Call/">Game Released, Download Here!</a></p>
