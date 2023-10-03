@@ -4,7 +4,7 @@ title: "Prototypes"
 author: "Jake Wylykanowitz"
 categories: games
 tags: [games,projects]
-image: PickfairStart.png
+image: CashOut1.gif
 ---
 
 ## A collection of prototypes made for USC's Game Prototyping class.
