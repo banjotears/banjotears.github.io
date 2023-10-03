@@ -2,7 +2,7 @@
 layout: post
 title: "The Pickfair Directive"
 author: "Jake Wylykanowitz"
-categories: games
+categories: projects
 tags: [games,projects]
 image: PickfairStart.png
 ---
