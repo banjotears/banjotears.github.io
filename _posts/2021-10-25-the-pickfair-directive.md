@@ -20,6 +20,6 @@ By solving puzzles and making creative works, players can meet SCA alumni and ga
 ![](/assets/img/catv.PNG)
 We showcased student projects on Twitch via a "pirate Twitch channel" and gave students a space discuss their art and how they relate to the world around them.
 ![](/assets/img/chadcam.PNG)
-- Participated in weekly meetings with the rest of the design team, 3 lead designers and 4 other gamemasters
-- Created puzzles, ciphers, and challenges for players 
-- Roleplayed as characters involved in the ARG on platforms like Twitter and Discord
+I participated in weekly meetings with the rest of the design team, 3 lead designers and 4 other gamemasters. As a gamemaster, I worked with my team to create puzzles, ciphers, and challenges for players. As this was a secret group, I also had to keep my involvement secret, enhancing the experience for players, making them really feel like they were interacting with a mysterious organization based on campus. An interesting aspect of emergent narrative design was rooted in when I roleplayed as characters involved in the ARG on platforms like Twitter and Discord. For example, I took on the role of a "frat boy artificial intelligence" named Chadbot, who would reward players involved in a "shootout challenge" we came up with as a team. One of the other designers took the lead on sending out prompts for the shootout, but I constructed the physical rewards of a single word tied to a 3D-printed model of Chadbot. I then had to hide them around SCA campus, take a picture of each object's location, and send it to the participating players so that they would receive their reward. 
+
+### INDIECADE 2021 NOMINEE
