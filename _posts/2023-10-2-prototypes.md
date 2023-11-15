@@ -27,5 +27,5 @@ On each of these projects, I collaborated with one other designer in the class. 
 ### Depth Reflection - Difficulty 
 ![](/assets/img/DepthReflection1.gif)
 ##### A mind-bending puzzle game where the player must reflect a laser to activate prisms in each level. The catch? Some elements are in the foreground!
-![](/assets/img/DepthReflection2.gif)
+![](/assets/img/DepthReflection2.gif)<br>
 As this class is ongoing, more prototypes will be added during the course of the semester!
