@@ -18,7 +18,6 @@ On each of these projects, I collaborated with one other designer in the class. 
 ##### A construction-style building puzzle game that asks the question: "What if construction cranes were as reliable as arcade cranes?"
 ![](/assets/img/Cranetastrophe1.gif)
 ### Ghostlight - Control
-![](/assets/img/Ghostlight1.gif)
 ##### A one-button dexterity-style arcade game where you play as a magic flashlight trying to get rid of ghosts while avoiding hitting any humans nearby. 
 ![](/assets/img/Ghostlight2.gif)
 ### CashOut - Balance/Feedback Loops
