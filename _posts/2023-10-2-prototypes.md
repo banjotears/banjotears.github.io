@@ -12,20 +12,23 @@ On each of these projects, I collaborated with one other designer in the class. 
 ### RocketCrash - Gamefeel
 ![](/assets/img/RocketCrash2.gif)
 ##### An interactable physics toy version of Asteroids where the player can crash into and destroy asteroids if they are moving fast enough.
-
+I worked with another student who was new to Unity, so we intentionally kept the scope limited to focus on making the simple mechanics of destruction and physics-based movement feel as good as possible.
 ### Cranetastrophe - Theme
 ![](/assets/img/Cranetastrophe2.gif)
 ##### A construction-style building puzzle game that asks the question: "What if construction cranes were as reliable as arcade cranes?"
 ![](/assets/img/Cranetastrophe1.gif)
+We wanted to lean into the chaos of the concept, intentionally letting physics run wild as players attempted to build as tall of a building as possible.
 ### Ghostlight - Control
 ##### A one-button dexterity-style arcade game where you play as a magic flashlight trying to get rid of ghosts while avoiding hitting any humans nearby. 
 ![](/assets/img/Ghostlight2.gif)
+Our challenge was to make a game that only required one button to be playable from start to finish. We were interested in the feeling of flicking on a flashlight or power switch, so we aimed to make the feeling of toggling a light on and off an engaging dexterity challenge.
 ### CashOut - Balance/Feedback Loops
 ![](/assets/img/CashOut1.gif)
 ##### An endless runner fused with push your luck mechanics, where each coin increases your potential score when you reach a bank, but also reduces your jump height.
+Push your luck is a mechanic frequently seen in board games, but is relatively rare when it comes to video games. Merging it with an endless runner, we wanted to emphasize replayability by directly correlating risk with achieving a higher score.
 ![](/assets/img/CashOut2.gif)
 ### Depth Reflection - Difficulty 
 ![](/assets/img/DepthReflection1.gif)
 ##### A mind-bending puzzle game where the player must reflect a laser to activate prisms in each level. The catch? Some elements are in the foreground!
 ![](/assets/img/DepthReflection2.gif)<br>
-As this class is ongoing, more prototypes will be added during the course of the semester!
+We wanted to make a game that had difficulty implemented via obfuscation. Since the player can only move in 2D space, we wanted to take the idea of reflecting light and elevate it in a surreal way. Since the player is a capsule, the object's reflectivity is much more unpredictable compared to something like a cube or flat object. Realizing we could reflect the laser into the foreground, I took it upon myself to create levels that would require the player to master positioning in order to light the prisms in each level to proceed.
