@@ -21,10 +21,11 @@ Gameplay is split between two unique sections, exploring and basebuilding. Durin
 Through the 12 week production cycle, I focused on level design, narrative, and audio. I was in charge of all of the dialogue and worldbuilding, ensuring it stayed true to the vision of the game.
 ![](assets/img/building.png)
 ![](assets/img/Screenshot (137).png)
-I implemented Yarn Spinner for our dialogue system alongside generating all of the dialogue in-game. I created multiple friendly characters able to join the player's outpost as well as several tablets detailing extra elements and stories set in the game's world being interactable by the player. Design-wise, I worked on the game's spatial inventory system, enemy behaviors, audio implementation, and basic combat. 
+I implemented Yarn Spinner for our dialogue system alongside generating all of the dialogue in-game. I created multiple friendly characters able to join the player's outpost as well as several tablets detailing extra elements and stories set in the game's world. 
+Design-wise, I worked on the game's spatial inventory system, enemy behaviors, audio implementation, and basic combat. 
 ![](assets/img/Bedtime Story.PNG)
 ![](assets/img/BushBotYarn.PNG)
-Working with our audio team, I was in charge of meeting with students from the Berklee College of Music who were tasked with creating our music and sound effects. I met with them once a week to discuss progress, share inspiration, and give feedback. Once all of our assets were completed, I implemented them into the game, including a simple system that would randomly play from a set of sound effects to keep the sound effects diverse and engaging.
+Working with our audio team, I was in charge of meeting with students from the Berklee College of Music who were tasked with creating our music and sound effects. We met once a week to discuss progress, share inspiration, and give feedback. Once all of our assets were completed, I implemented them into the game, including designing a simple system that would randomly play from a set of sound effects to keep the sound effects diverse and engaging.
 
 This project was a major learning experience, particularly when it comes to player behavior and explaining mechanics to new players. We sought to have players make difficult decisions regarding resource management and basebuilding vs exploration and combat, but players were much more invested in the exploration side than the basebuilding. It also taught me a lot about the importance of scope, prioritization, and time management when designing experiences.
-<p align = "center"><a href = "https://lsyu.itch.io/perennial">Game Out Now, Download Here!</a></p>
+<p align = "center"><a href = "https://lsyu.itch.io/perennial">Game Out Now, Download On Itch.io</a></p>
