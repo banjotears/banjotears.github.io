@@ -22,7 +22,7 @@ image: FuckSocietyD4MaskBreak.PNG
 * Jodie's 3rd date
 * Billie's TTRPG Conversation 
 * Jodie's Music Conversation 
-* Jodie's Breakup Conversationa conversation for both characters
+* Jodie's Breakup Conversation
 ### What Sets Curtain Call Apart?
 Unlike other visual novels where the choice may affect a line or two, choices I wrote were able to have radically different changes to the story being told.
 Each location had exclusive dialogue, choices, and narrative repercussions based on which choice is selected. 
