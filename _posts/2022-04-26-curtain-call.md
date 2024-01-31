@@ -12,7 +12,7 @@ image: FuckSocietyD4MaskBreak.PNG
 ### Help three college students survive young adult life.
 <p align = "center"><iframe width="560" height="325" src="https://www.youtube.com/embed/dVwN30v0fDA" title="Curtain Call- Jodie Date 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 ##### A playthrough of Jodie's 3rd date, which I was responsible for writing, editing, and implementing.
-### My Responsibilities:
+### My Responsibilities
 * Collaborated with a team of 6 to create a 3-4 hour cozy/comedic visual novel in Unity about vulnerability and self-actualization
 * Drafted and implemented 2 long-form "Date" and 3 short-form "Conversation" scenarios for players
 * Created upwards of 40 different branching character responses per scenario based on player decisions
