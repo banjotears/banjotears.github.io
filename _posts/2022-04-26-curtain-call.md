@@ -26,7 +26,7 @@ image: FuckSocietyD4MaskBreak.PNG
 ### What Sets Curtain Call Apart?
 * Choices I wrote radically change the story being told unlike other visual novels
 * Scenarios have exclusive dialogue, choices, and full narrative sequences based on player decisions
-* Since only one can be chosen per runthrough of the date, players are incentivized to replay the game and experience every interaction.
+* Since only one option is available per runthrough of the date, players are incentivized to replay the game and experience every possible interaction.
 ![](/assets/img/FuckSocietyD3Aquarium (1).PNG)
 ### My Process
 * For dates, I started with the location first
