@@ -24,15 +24,16 @@ image: FuckSocietyD4MaskBreak.PNG
 * Jodie's Music Conversation 
 * Jodie's Breakup Conversation
 ### What Sets Curtain Call Apart?
-Unlike other visual novels where the choice may affect a line or two, choices I wrote were able to have radically different changes to the story being told.
-Each location had exclusive dialogue, choices, and narrative repercussions based on which choice is selected. 
-Since only one can be chosen per runthrough of the date, players are incentivized to replay the game and experience every interaction.
+* Choices I wrote radically change the story being told unlike other visual novels
+* Scenarios have exclusive dialogue, choices, and full narrative sequences based on olayer decisions
+* Since only one can be chosen per runthrough of the date, players are incentivized to replay the game and experience every interaction.
 ![](/assets/img/FuckSocietyD3Aquarium (1).PNG)
 ### My Process
-For dates, I started with the location first, discussing with my team where a good location to set the date would be. After that, I would draft the date as a simple outline before beginning writing in Yarn Spinner.
+* For dates, I started with the location first
+* Afterwards, I would draft the date as a simple outline before beginning to write in Yarn Spinner.
 ![](/assets/img/CurtainCallExample.png)
-After my first draft, I iterated based on feedback from my teammates and playtesters. 
-Our goals while designing each scenario were to make the characters feel real and have players feel like their choices have value beyond just numeric outputs.
+* After my first draft, I iterated based on feedback from my teammates and playtesters. 
+* Our goals while designing each scenario were to make the characters feel real and have players feel like their choices have value beyond just numeric outputs.
 ![](/assets/img/Yarn.PNG)
 <p align = "center"><iframe width="560" height="315" src="https://www.youtube.com/embed/3Ahd_w9RJFk" title="Curtain Call Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 ### NEW MEDIA WRITING PRIZE 2022 SHORTLIST
