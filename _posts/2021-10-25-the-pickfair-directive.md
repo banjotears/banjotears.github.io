@@ -15,7 +15,6 @@ An Alternate Reality Game (ARG)-like developed with fellow students and staff at
 ![](/assets/img/shall we play a game.png)
 Created for incoming freshmen at the School of Cinematic Arts, it follows the story of a rogue AI called Elysee Reinhardt and a mysterious organization known as the Pickfair Directive.
 ![](/assets/img/pickfair vid thing.png)
-![](/assets/img/indiecade.png)
 By solving puzzles and making creative works, players can meet SCA alumni and gain access to special events.
 ![](/assets/img/catv.PNG)
 We showcased student projects on Twitch via a "pirate Twitch channel" and gave students a space discuss their art and how they relate to the world around them.
@@ -26,5 +25,4 @@ An interesting aspect of emergent narrative design was rooted in when I roleplay
 For example, I took on the role of an artificial intelligence who would reward players involved in a "shootout challenge" we came up with as a team. 
 One of the other designers took the lead on sending out prompts for the shootout, but I constructed the physical rewards of a single word tied to a 3D-printed model of Chadbot. 
 I then had to hide them around SCA campus, take a picture of each object's location, and send it to the participating players so that they would receive their reward. 
-
-### INDIECADE 2021 NOMINEE
+![](/assets/img/indiecade.png)
