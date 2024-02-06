@@ -8,14 +8,14 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Featured Games',  url: 'games'}
-- {name: Projects, url: 'projects'}
+- {name: 'Other Work', url: 'projects'}
 - {name: 'TTRPGs',       url: 'ttrpgs'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link:    'https://twitter.com/banjotears'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/jake-wylykanowitz/'}
-- {icon: 'envelope', link:   'jawylkan@gmail.com'}
+- {icon: 'envelope', link:   'https://mail.google.com/mail/u/jawylkan@gmail.com/#compose'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
