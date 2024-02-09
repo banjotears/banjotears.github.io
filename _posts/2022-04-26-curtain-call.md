@@ -29,7 +29,11 @@ image: FuckSocietyD4MaskBreak.PNG
 ![](/assets/img/CurtainCallExample.png)
 * After my first draft, I iterated based on feedback from my teammates and playtesters. 
 * Our goals while designing each scenario were to make the characters feel real and have players feel like their choices have value beyond just numeric outputs.
-![](/assets/img/Yarn.PNG)
+<a href ="#dimmed-background1"><img src = "/assets/img/Yarn.PNG" class="clickable-image"></a>
+<div class="dimmed-background" id="dimmed-background1">
+  <a href="#" class="close-button">Close</a>
+  <img src="/assets/img/Yarn.PNG" alt="Expanded Image" id="lightbox-image">
+</div>
 <p align = "center"><iframe width="560" height="315" src="https://www.youtube.com/embed/3Ahd_w9RJFk" title="Curtain Call Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 ### NEW MEDIA WRITING PRIZE 2022 SHORTLIST
 ### MELBOURNE QUEER GAMES FESTIVAL 2022 SHORTLIST
