@@ -23,11 +23,6 @@ image: FuckSocietyD4MaskBreak.PNG
 * Billie's TTRPG Conversation 
 * Jodie's Music Conversation 
 * Jodie's Breakup Conversation
-### What Sets Curtain Call Apart?
-* Choices I wrote radically change the story being told unlike other visual novels
-* Scenarios have exclusive dialogue, choices, and full narrative sequences based on player decisions
-* Since only one option is available per runthrough of the date, players are incentivized to replay the game and experience every possible interaction.
-![](/assets/img/FuckSocietyD3Aquarium (1).PNG)
 ### My Process
 * For dates, I started with the location first
 * Afterwards, I would draft the date as a simple outline before beginning to write in Yarn Spinner.
