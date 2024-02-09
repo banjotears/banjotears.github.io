@@ -1,6 +1,11 @@
-.zoom > img:hover {
-  width: 500px;
-  height: 200px;
+.imgLink { border: none; background: none; }
+.imgLink img
+{
+  height: 8rem;
+}
+.imgLink:active img, .imgLink:focus img
+{
+  height: 16rem;
 }
 
 .post-content {
