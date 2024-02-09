@@ -6,7 +6,11 @@ categories: ttrpg
 tags: [TTRPGs]
 image: FiendsAndFarms.png
 ---
-
+<a href ="#dimmed-background1"><img src = "/assets/img/FiendsAndFarms.png" class="clickable-image"></a>
+<div class="dimmed-background" id="dimmed-background2">
+  <a href="#" class="close-button">Close</a>
+  <img src="/assets/img/FiendsAndFarms.png" alt="Expanded Image" id="lightbox-image">
+</div>
 ## Game Designer 
 ## One-Page TTRPG 
 ### Take on the role of farmers in 17th century Germany as they try to outsmart the Devil.
