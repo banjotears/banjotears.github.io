@@ -7,8 +7,8 @@ tags: [games,projects]
 image: RocketCrash1.gif
 ---
 
-## A collection of prototypes made for USC's Game Prototyping class.
-On each of these projects, I collaborated with one other designer in the class. Primarily relying on 2D, representational geometry, we were tasked with creating experimental, engaging games in Unity on a weekly basis.
+## A collection of experimental prototypes made in week-long sprints.
+On each of these projects, I collaborated with one other designer. Primarily relying on 2D, representational geometry, we were tasked with creating experimental, engaging games in Unity.
 ### RocketCrash - Gamefeel
 ![](/assets/img/RocketCrash2.gif)
 ##### An interactable physics toy version of Asteroids where the player can crash into and destroy asteroids if they are moving fast enough.
