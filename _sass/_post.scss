@@ -1,11 +1,13 @@
 .imgLink { border: none; background: none; }
 .imgLink img
 {
-  height: 8rem;
+  height: 50rem;
 }
 .imgLink:active img, .imgLink:focus img
 {
-  height: 16rem;
+  display: inline-block;
+  background: #000;
+  height: 100rem;
 }
 
 .post-content {
