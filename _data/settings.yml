@@ -8,8 +8,8 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Featured Games',  url: 'games'}
-- {name: 'Other Work', url: 'projects'}
 - {name: 'TTRPGs',       url: 'ttrpgs'}
+- {name: 'Other Work', url: 'projects'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
